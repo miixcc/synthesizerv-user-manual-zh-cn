@@ -10,3 +10,5 @@
     * [回放](zh-cn/quickstart-guide/playback.md)
     * [管理音轨](zh-cn/quickstart-guide/managing-tracks.md)
     * [保存音频](zh-cn/quickstart-guide/saving-the-audio.md)
+* 进阶
+    * [编辑音素](zh-cn/intermediate-and-advanced-usage/editing-phonemes.md)

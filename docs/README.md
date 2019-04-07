@@ -7,3 +7,7 @@
 GitHub项目链接：[https://github.com/miixcc/synthesizerv-user-manual-zh-cn/](https://github.com/miixcc/synthesizerv-user-manual-zh-cn/)
 
 ![User Manual](logo.png)
+
+[Synthesizer V 官方网站](https://synthesizerv.com/)
+
+[Synthesizer V 官方论坛](https://forum.synthesizerv.com/)
