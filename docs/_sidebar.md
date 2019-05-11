@@ -13,4 +13,4 @@
 * 进阶
     * [编辑音素](zh-cn/intermediate-and-advanced-usage/editing-phonemes.md)
     * [音符属性](zh-cn/intermediate-and-advanced-usage/note-properties.md)
-    * [加入伴奏](zh-cn/intermediate-and-advanced-usage/adding-instruments.md)
+    * [加入伴奏](zh-cn/intermediate-and-advanced-usage/adding-instrumentals.md)
