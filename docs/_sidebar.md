@@ -14,3 +14,4 @@
     * [编辑音素](zh-cn/intermediate-and-advanced-usage/editing-phonemes.md)
     * [加入伴奏](zh-cn/intermediate-and-advanced-usage/adding-instrumentals.md)
     * [一些技巧和杂七杂八](zh-cn/intermediate-and-advanced-usage/tricks-and-miscellaneous.md)
+    * [连接DAW](zh-cn/intermediate-and-advanced-usage/daw-linking.md)
