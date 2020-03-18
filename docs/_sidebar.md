@@ -12,6 +12,7 @@
     * [保存音频](zh-cn/quickstart-guide/saving-the-audio.md)
 * 进阶
     * [编辑音素](zh-cn/intermediate-and-advanced-usage/editing-phonemes.md)
+    * [音符属性](zh-cn/intermediate-and-advanced-usage/note-properties.md)
     * [加入伴奏](zh-cn/intermediate-and-advanced-usage/adding-instrumentals.md)
     * [自定义布局](zh-cn/intermediate-and-advanced-usage/layout-customization.md)
     * [一些技巧和杂七杂八](zh-cn/intermediate-and-advanced-usage/tricks-and-miscellaneous.md)
