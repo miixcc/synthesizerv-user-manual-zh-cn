@@ -16,6 +16,7 @@
     * [从属声库](zh-cn/intermediate-and-advanced-usage/sub-libraries.md)
     * [编辑参数](zh-cn/intermediate-and-advanced-usage/editing-parameters.md)
     * [加入伴奏](zh-cn/intermediate-and-advanced-usage/adding-instrumentals.md)
+    * [声门效果](zh-cn/intermediate-and-advanced-usage/glottal-effects.md)
     * [自定义布局](zh-cn/intermediate-and-advanced-usage/layout-customization.md)
     * [一些技巧和杂七杂八](zh-cn/intermediate-and-advanced-usage/tricks-and-miscellaneous.md)
     * [连接DAW](zh-cn/intermediate-and-advanced-usage/daw-linking.md)
