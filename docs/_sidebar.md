@@ -14,6 +14,7 @@
     * [编辑音素](zh-cn/intermediate-and-advanced-usage/editing-phonemes.md)
     * [音符属性](zh-cn/intermediate-and-advanced-usage/note-properties.md)
     * [从属声库](zh-cn/intermediate-and-advanced-usage/sub-libraries.md)
+    * [编辑参数](zh-cn/intermediate-and-advanced-usage/editing-parameters.md)
     * [加入伴奏](zh-cn/intermediate-and-advanced-usage/adding-instrumentals.md)
     * [自定义布局](zh-cn/intermediate-and-advanced-usage/layout-customization.md)
     * [一些技巧和杂七杂八](zh-cn/intermediate-and-advanced-usage/tricks-and-miscellaneous.md)
