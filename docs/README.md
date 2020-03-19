@@ -1,6 +1,6 @@
 # Synthesizer V 中文用户手册 
 
-> 此项目的目标是将 [Synthesizer V 官方用户手册](https://synthesizerv.com/manual/#) 中的内容翻译成中文。
+> 此项目的目标是将 [Synthesizer V 官方用户手册](https://synthesizerv.com/manual/#) 中的内容翻译成中文。水平有限，若有出入，请以原文为准。
 
 文档页面链接：[https://sv.miix.cc/](https://sv.miix.cc/)
 
