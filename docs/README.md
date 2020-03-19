@@ -16,20 +16,20 @@ GitHub项目链接：[https://github.com/miixcc/synthesizerv-user-manual-zh-cn/]
 
 1. **更换字体**
 
-Windows和Linux版本的SynthV自带的是日版字体，在显示某些汉字时的字形可能看起来会比较奇怪。
-你可以更换为其他字体。这里提供开源的 [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) ：[点此下载](zh-cn/tips/sarasa-ui-sc-regular.ttf)
+Windows和Linux版本的Synthesizer V自带的是日版字体，在显示某些汉字时的字形可能看起来会比较奇怪。
+建议更换为其他字体。这里提供开源的 [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) ：[点此下载](https://raw.githubusercontent.com/miixcc/synthesizerv-user-manual-zh-cn/master/docs/zh-cn/tips/sarasa-ui-sc-regular.ttf)
 
 将字体文件放入安装目录，把 *settings.xml* 中的 *NotoSansCJKjp-Regular.otf* 改为 *sarasa-gothic-sc-regular.ttf* ，保存即可。
 
 ![](zh-cn/tips/tips-1.png)
 
-1. **自动保存**
+2. **自动保存**
 
 `设置` - `使用偏好` - `行为` - `自动保存`
 
 ![](zh-cn/tips/tips-2.png)
 
-3. 界面调整
+3. **界面调整**
    
    `设置` - `使用偏好` - `全局` - `启用OpenGL渲染`
 
