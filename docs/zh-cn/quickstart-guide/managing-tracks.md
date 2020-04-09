@@ -14,4 +14,4 @@
 
 15. **为此音轨编辑声库设定**
 
-单击此处将打开 [歌声数据库设定](singer-selection.md) 窗口。
+单击此处将打开 [歌声数据库设定](/zh-cn/quickstart-guide/singer-selection.md) 窗口。

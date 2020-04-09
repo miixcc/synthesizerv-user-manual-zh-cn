@@ -19,7 +19,7 @@ GitHub项目链接：[https://github.com/miixcc/synthesizerv-user-manual-zh-cn/]
 Windows和Linux版本的Synthesizer V自带的是日版字体，在显示某些汉字时的字形可能看起来会比较奇怪。
 建议更换为其他字体。这里提供开源的 [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) ：[点此下载](https://raw.githubusercontent.com/miixcc/synthesizerv-user-manual-zh-cn/master/docs/zh-cn/tips/sarasa-ui-sc-regular.ttf)
 
-将字体文件放入安装目录，把 *settings.xml* 中的 *NotoSansCJKjp-Regular.otf* 改为 *sarasa-gothic-sc-regular.ttf* ，保存即可。
+将字体文件放入安装目录，把 *settings.xml* 中的 *NotoSansCJKjp-Regular.otf* 改为 *sarasa-ui-sc-regular.ttf* ，保存即可。
 
 ![](zh-cn/tips/tips-1.png)
 
