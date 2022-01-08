@@ -1,5 +1,13 @@
 # Synthesizer V 中文用户手册 
 
+**此项目已过时。欲了解新版资料，请参考官方配套资源**
+
+[Synthesizer V Studio Tutorial Series]: https://www.youtube.com/watch?v=5f50-Ircdvs&amp;list=PLmYtpIFKN5iKaUlB6mRGzFJ0SGRJgRIPz
+
+[Synthesizer V Studio 快速使用教程]: https://www.bilibili.com/video/BV1yL4y1J7E2
+
+[Synthesizer V Studio Scripting Manual]: https://resource.dreamtonics.com/scripting/
+
 > 此项目的目标是将 [Synthesizer V 官方用户手册](https://synthesizerv.com/manual/#) 中的内容翻译成中文。水平有限，若有出入，请以原文为准。
 
 文档页面链接：[https://sv.miix.cc/](https://sv.miix.cc/)
